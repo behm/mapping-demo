@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MappingDemo")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Daktronics, Inc.")]
+[assembly: AssemblyCompany("Behm, Inc.")]
 [assembly: AssemblyProduct("MappingDemo")]
-[assembly: AssemblyCopyright("Copyright © Daktronics, Inc. 2017")]
+[assembly: AssemblyCopyright("Copyright © Behm, Inc. 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
